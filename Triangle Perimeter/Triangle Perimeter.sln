@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Triangle Perimeter", "Triangle Perimeter\Triangle Perimeter.vcxproj", "{407F8881-E398-49D3-988A-529924F2D339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407F8881-E398-49D3-988A-529924F2D339}.Debug|Win32.ActiveCfg = Debug|Win32
+		{407F8881-E398-49D3-988A-529924F2D339}.Debug|Win32.Build.0 = Debug|Win32
+		{407F8881-E398-49D3-988A-529924F2D339}.Release|Win32.ActiveCfg = Release|Win32
+		{407F8881-E398-49D3-988A-529924F2D339}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
